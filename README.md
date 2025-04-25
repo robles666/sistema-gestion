@@ -38,7 +38,7 @@
 ### 2. Configuración Inicial
 
 # Clonar repositorio
-git clone https://github.com/tu-usuario/sistema-gestion.git
+git clone https://github.com/robles666/sistema-gestion.git
 cd sistema-gestion
 
 
