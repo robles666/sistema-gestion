@@ -39,4 +39,4 @@
 
 # Clonar repositorio
 git clone https://github.com/robles666/sistema-gestion.git
-cd sistema-gestion
+
