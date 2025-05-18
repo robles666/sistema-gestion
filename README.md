@@ -40,3 +40,20 @@
 # Clonar repositorio
 git clone https://github.com/robles666/sistema-gestion.git
 
+sistema-gestion/  
+├── backend/          # API REST (Spring Boot)  
+├── frontend/         # Aplicación React  
+├── scripts/          # SQL y automatización  
+└── docs/             # Manuales y diagramas  
+
+
+### Características destacadas:
+1. **Badges dinámicos**: Muestran versión y tecnologías clave.  
+2. **Tablas organizadas**: Para stacks técnicos y métricas.  
+3. **Enlaces directos**: A documentación relevante.  
+4. **Instrucciones claras**: Con bloques de código para instalación.  
+5. **Roadmap visual**: Con checkboxes para seguimiento.  
+
+**Recomendación**: Actualizar los enlaces a repositorios y docs reales antes de implementar.
+
+
